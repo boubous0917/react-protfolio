@@ -2,20 +2,11 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Experience from "./components/Experience";
 import Hero from "./components/Hero";
-import LoadingPage from "./pages/Loading";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Technologies from "./components/Technologies";
 
 export default function App() {
-  // useGSAP(() => {
-  //   let tl = gsap.timeline();
-  //   tl.to(".wrapper", {
-  //     opacity: 0,
-  //     duration: 1,
-  //     delay: 1,
-  //   });
-  // });
   return (
     <>
       {/* <LoadingPage /> */}
