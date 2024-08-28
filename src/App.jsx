@@ -6,8 +6,7 @@ import LoadingPage from "./pages/Loading";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Technologies from "./components/Technologies";
-// import { useGSAP } from "@gsap/react";
-// import gsap from "gsap";
+
 // token -> 27 sep 2024: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
 export default function App() {
   // useGSAP(() => {
